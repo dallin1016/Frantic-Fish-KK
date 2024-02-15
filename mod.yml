@@ -19,6 +19,9 @@ assets:
   source:
   - name: obj/W_EX010_WI.mdlx
 - name: remastered/obj/W_EX010.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010.mdlx/-0.dds
 - name: remastered/obj/W_EX010_NM.mdlx/-0.dds
   method: copy
   source:
